@@ -1,0 +1,15 @@
+------
+README
+------
+This is the README file for Goodnames, the Open Source Moodle 2.x
+students' files submission report. It includes general information about
+the software and the project.
+
+About
+=====
+
+Goodnames is a Free and Open Source module for Moodle 2.x that provides
+a way to teachers know if the students had submitted a file with certain
+criteria. It is very usefull when a teacher has a large class divided
+into groups, and each group has to submit a particular filename.
+Often several members of the same group submit the same/similar files.
